@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coloresreactjosetp.git/static/css/main.a37acb7e.css",
+    "main.js": "/coloresreactjosetp.git/static/js/main.7442adc6.js",
+    "static/js/787.6018e935.chunk.js": "/coloresreactjosetp.git/static/js/787.6018e935.chunk.js",
+    "index.html": "/coloresreactjosetp.git/index.html",
+    "main.a37acb7e.css.map": "/coloresreactjosetp.git/static/css/main.a37acb7e.css.map",
+    "main.7442adc6.js.map": "/coloresreactjosetp.git/static/js/main.7442adc6.js.map",
+    "787.6018e935.chunk.js.map": "/coloresreactjosetp.git/static/js/787.6018e935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a37acb7e.css",
+    "static/js/main.7442adc6.js"
+  ]
+}
